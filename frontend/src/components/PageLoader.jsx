@@ -19,7 +19,7 @@ const PageLoader = () => {
         {/* Brand Name */}
         <div className="mb-8">
           <h1 className="text-4xl font-bold font-display text-gradient-primary mb-2">
-            StreamifyPro
+            JigarafyPro
           </h1>
           <p className="text-neutral-500 font-medium">
             Professional Video Platform

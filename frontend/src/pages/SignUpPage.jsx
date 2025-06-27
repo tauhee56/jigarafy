@@ -44,7 +44,7 @@ const SignUpPage = () => {
                   </div>
                   <div className="flex flex-col">
                     <span className="text-3xl font-bold font-display text-gradient-primary tracking-tight">
-                      StreamifyPro
+                      JigarafyPro
                     </span>
                     <span className="text-sm text-neutral-500 font-medium -mt-1">
                       Professional Video Platform
@@ -73,7 +73,7 @@ const SignUpPage = () => {
                       Create Your Account
                     </h2>
                     <p className="text-neutral-500 text-lg">
-                      Join thousands of professionals using StreamifyPro for seamless video communication
+                      Join thousands of professionals using JigarafyPro for seamless video communication
                     </p>
                   </div>
 

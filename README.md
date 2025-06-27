@@ -1,4 +1,4 @@
-# StreamifyPro - Professional Video Calling Platform
+# JigarafyPro - Professional Video Calling Platform
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.0+-blue.svg" alt="React" />
@@ -90,8 +90,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/streamifypro.git
-   cd streamifypro
+   git clone https://github.com/yourusername/jigarafypro.git
+   cd jigarafypro
    ```
 
 2. **Install dependencies**
@@ -110,9 +110,9 @@
    Create `.env` file in the backend directory:
    ```env
    PORT=5001
-   MONGO_URI=your_mongo_uri
-   STEAM_API_KEY=your_steam_api_key
-   STEAM_API_SECRET=your_steam_api_secret
+   MONGODB_URI=mongodb://localhost:27017/jigarafypro
+   STREAM_API_KEY=your_stream_api_key
+   STREAM_API_SECRET=your_stream_api_secret
    JWT_SECRET_KEY=your_jwt_secret
    NODE_ENV=development
    ```
@@ -140,7 +140,7 @@
 ## 📁 Project Structure
 
 ```
-streamifypro/
+jigarafypro/
 ├── frontend/                 # React frontend application
 │   ├── src/
 │   │   ├── components/      # Reusable UI components
@@ -176,7 +176,7 @@ streamifypro/
 
 ## 🎨 Professional Themes
 
-StreamifyPro comes with 4 professionally designed themes:
+JigarafyPro comes with 4 professionally designed themes:
 
 - **Professional Light** - Clean and modern light theme for daytime use
 - **Professional Dark** - Sophisticated dark theme with excellent contrast
@@ -234,11 +234,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@streamifypro.com or join our community.
+For support, email support@jigarafypro.com or join our community.
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the StreamifyPro Team</p>
+  <p>Made with ❤️ by the JigarafyPro Team</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>

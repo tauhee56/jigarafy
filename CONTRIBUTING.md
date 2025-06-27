@@ -1,6 +1,6 @@
-# Contributing to StreamifyPro
+# Contributing to JigarafyPro
 
-Thank you for your interest in contributing to StreamifyPro! We welcome contributions from the community and are pleased to have you join us.
+Thank you for your interest in contributing to JigarafyPro! We welcome contributions from the community and are pleased to have you join us.
 
 ## 🚀 Getting Started
 
@@ -14,8 +14,8 @@ Thank you for your interest in contributing to StreamifyPro! We welcome contribu
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/streamifypro.git
-   cd streamifypro
+   git clone https://github.com/yourusername/jigarafypro.git
+   cd jigarafypro
    ```
 
 2. **Install dependencies**
@@ -155,6 +155,6 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 - Join our Discord server
 - Check existing issues and discussions
-- Email: contribute@streamifypro.com
+- Email: contribute@jigarafypro.com
 
-Thank you for contributing to StreamifyPro! 🎉
+Thank you for contributing to JigarafyPro! 🎉

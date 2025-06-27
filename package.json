@@ -1,5 +1,5 @@
 {
-  "name": "streamifypro",
+  "name": "jigarafypro",
   "version": "1.0.0",
   "description": "Enterprise-Grade Video Communication Platform - A modern, professional video calling and messaging platform built with React, Node.js, and Stream.io",
   "main": "index.js",
@@ -33,16 +33,16 @@
     "messaging",
     "webrtc"
   ],
-  "author": "StreamifyPro Team",
+  "author": "JigarafyPro Team",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/streamifypro.git"
+    "url": "https://github.com/yourusername/jigarafypro.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/streamifypro/issues"
+    "url": "https://github.com/yourusername/jigarafypro/issues"
   },
-  "homepage": "https://github.com/yourusername/streamifypro#readme",
+  "homepage": "https://github.com/yourusername/jigarafypro#readme",
   "devDependencies": {
     "concurrently": "^8.2.2"
   },

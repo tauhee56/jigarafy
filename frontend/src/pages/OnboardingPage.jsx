@@ -76,7 +76,7 @@ const OnboardingPage = () => {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-3xl font-bold font-display text-gradient-primary tracking-tight">
-                    StreamifyPro
+                    JigarafyPro
                   </span>
                   <span className="text-sm text-neutral-500 font-medium -mt-1">
                     Professional Setup
