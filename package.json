@@ -1,0 +1,53 @@
+{
+  "name": "streamifypro",
+  "version": "1.0.0",
+  "description": "Enterprise-Grade Video Communication Platform - A modern, professional video calling and messaging platform built with React, Node.js, and Stream.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend",
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "test": "concurrently \"npm run test:backend\" \"npm run test:frontend\"",
+    "test:backend": "cd backend && npm test",
+    "test:frontend": "cd frontend && npm test",
+    "lint": "concurrently \"npm run lint:backend\" \"npm run lint:frontend\"",
+    "lint:backend": "cd backend && npm run lint",
+    "lint:frontend": "cd frontend && npm run lint"
+  },
+  "keywords": [
+    "video-calling",
+    "chat",
+    "react",
+    "nodejs",
+    "mongodb",
+    "stream",
+    "professional",
+    "enterprise",
+    "communication",
+    "collaboration",
+    "tailwindcss",
+    "real-time",
+    "messaging",
+    "webrtc"
+  ],
+  "author": "StreamifyPro Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/streamifypro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/streamifypro/issues"
+  },
+  "homepage": "https://github.com/yourusername/streamifypro#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
