@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@jigarafypro.com or join our community.
+For support, email tauheedjuniorgmail.com or join our community.
 
 ---
 
